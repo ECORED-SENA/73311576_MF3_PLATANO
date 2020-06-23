@@ -1,0 +1,72 @@
+[
+  {
+    "letter": "A",
+    "terms": [
+      {
+        "title": "Aborrajado",
+        "desciption": "producto apanado a base de plátano maduro relleno de queso."
+      },
+      {
+        "title": "Antioxidante",
+        "desciption": "son raíces que no nacen de la raíz principal sino por ejemplo del tallo subterráneo."
+      }      
+    ]
+  },
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Calidad",
+        "desciption": "hace referencia a la capacidad que tiene un producto al momento de satisfacer las necesidades implícitas o explícitas, de acuerdo a un parámetro o un cumplimiento de requisitos de calidad."
+      },
+      {
+        "title": "Conservante",
+        "desciption": "es una sustancia que se utiliza como aditivo en los alimentos, la cual al ser añadida a estos, minimiza o detiene el deterioro que es causado por la presencia de diferentes microorganismos."
+      }      
+    ]
+  }, 
+  {
+    "letter": "D",
+    "terms": [
+      {
+        "title": "Desinfección",
+        "desciption": "reducción del número de microorganismos por métodos físicos o químicos a niveles que no representen riesgos para la seguridad del alimento."
+      }   
+    ]
+  },
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Marmita",
+        "desciption": "es una olla en acero inoxidable que se utiliza generalmente para cocinar alimentos a nivel industrial."
+      },
+      {
+        "title": "Mercados diferenciados",
+        "desciption": "son aquellos que requieren el suministro de productos con características especiales diferentes a las del mercado común."
+      }      
+    ]
+  },
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Punto de fusión",
+        "desciption": "es el grado de temperatura bajo el cual los ácidos grasos de un aceite pasan del estado sólido al líquido."
+      },
+      {
+        "title": "Punto de humo",
+        "desciption": "es la temperatura máxima a la que puede calentarse un aceite antes de que inicie su proceso de descomposición y pierda sus propiedades alimentarias."
+      }    
+    ]
+  },
+  {
+    "letter": "T",
+    "terms": [
+      {
+        "title": "Tostón",
+        "desciption": "son trozos aplanados fritos de plátano verde."
+      }
+    ]
+  }
+]

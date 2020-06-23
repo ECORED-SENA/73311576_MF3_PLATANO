@@ -1,0 +1,44 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "path": "pages/introduccion.html"
+  }, 
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "procesos",
+    "title": "1. Procesos agroindustriales del plátano",
+    "path": "pages/tema-1.html"
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "criterios-calidad",
+    "title": "2. Criterios de calidad para la transformación del plátano",
+    "path": "pages/tema-2.html"  
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "manipulacion-alimentos",
+    "title": "3. Prácticas de manipulación de alimentos",
+    "path": "pages/tema-3.html"
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "productos",
+    "title": "4. Productos elaborados a base de plátano",
+    "path": "pages/tema-4.html"
+  },       
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }    
+]
