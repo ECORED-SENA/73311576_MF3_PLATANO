@@ -12,7 +12,7 @@
     "path": "pages/introduccion.html"
   }, 
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "procesos",
     "title": "1. Procesos agroindustriales del plátano",
     "path": "pages/tema-1.html"
@@ -30,7 +30,7 @@
     "path": "pages/tema-3.html"
   },
   {
-    "icon": "fa fa-file-text-o",
+    "icon": "fa fa-play-circle",
     "slug": "productos",
     "title": "4. Productos elaborados a base de plátano",
     "path": "pages/tema-4.html"
